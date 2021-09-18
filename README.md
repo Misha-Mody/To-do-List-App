@@ -4,6 +4,7 @@
 LANGUAGE:  JAVASCRIPT , HTML , CSS
 I  have created a fully functional to-do list app  with a beautiful UI implemented by CSS .  
 The functions are :
+
       1. User can add a to-do by filling the     input and hit ENTER.
       
       2. He can rather check-mark  the to-do when it's done . 
